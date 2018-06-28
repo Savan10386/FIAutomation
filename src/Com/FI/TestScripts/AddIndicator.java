@@ -31,6 +31,9 @@ public class AddIndicator {
 	
  @Test
 	public void testLogin() throws Exception {
+	 
+	 
+	 //mahesh check in
 		try
 		{
 	     oDriver.findElement(By.id("ctl00_Repeater1_ctl00_HyperLinkIcon")).click();
